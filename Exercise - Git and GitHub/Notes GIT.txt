@@ -1,0 +1,59 @@
+GIT		- Tracciare le modifiche 
+		- Distributed Version Control System e non Centralized, basato su un sistema di snapshots
+			- Contralizzato	: file risiedono solamente su un server centrale
+			- Distribuiti	: data risiedono sulle macchine di ciasun utente. Può causare conflitti 
+Repository	- directory a cui diciamo a git di tenere traccia. Un insieme organizzato di commit
+Commit 		- snapshot dello stato della directory
+Branch		- possibilità di avere più rami di sviluppo 
+Merge		- unire brach dev con master 
+Clone		- copia in locale un repository remote
+Push 		- copia su repository remoto
+Pull 		- copia in locale le commit del repository remoto
+Nel git store vengono salvati i dati. I dati salvati in repository diventano oggetti e ogni oggetto ha checksum: 
+Oggetti - globe
+	- tree
+ 	- commit
+In Git esistono tre livelli di configuraizone:
+	- repository
+	- global
+	- system
+		   
+		    ---------------------------------------------------------------------
+Stato del file	--> |	Working area	|	Staging area	|	Repository	|
+		    ---------------------------------------------------------------------------------------------
+Ciclo del file	--> |	Untraced	|	Unmodified	|	Modified	|	Staged		|
+		    ---------------------------------------------------------------------------------------------
+
+Commandi GIT: 
+git init	
+git branch 
+git branch -d
+git branch -D
+git branch -vv
+git status
+git add
+git commit 
+git commit -a
+git config --global user.email
+git config --global user.name
+git log 
+git log --graph
+git log --graph --all --decorate
+git show 
+git checkout branch
+git diff
+git merge branch
+git gc
+git reflog
+git reset 
+git reset --soft ID
+git clone
+git fetch origin 
+
+
+Commandi GITHUB:
+git init 
+git add 
+git commit -m "message"
+git remote add origin URL
+git push -u origin master
