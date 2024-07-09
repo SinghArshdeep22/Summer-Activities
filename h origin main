@@ -1,0 +1,54 @@
+[33mcommit a9b91c2b42b89ad4619626bd4db8f740e7625f9e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: singh <arshsngh05@gmail.com>
+Date:   Mon Jul 8 16:25:17 2024 +0200
+
+    Renamed Go to Exercise - Go
+
+[33mcommit 4a30cc8d71f6f739ae9b7be906957e6e61ed692b[m
+Author: singh <arshsngh05@gmail.com>
+Date:   Mon Jul 8 16:20:29 2024 +0200
+
+    Removed JS Folder
+
+[33mcommit 771f0527e672883c2d95c400e6fa43c64fd73a62[m
+Merge: 774ad76 d3840b1
+Author: singh <arshsngh05@gmail.com>
+Date:   Mon Jul 8 16:18:40 2024 +0200
+
+    Adding JS Exercise
+
+[33mcommit 774ad76ab6801bef26878b234c2f4b834b8589ee[m
+Author: singh <arshsngh05@gmail.com>
+Date:   Mon Jul 8 16:12:35 2024 +0200
+
+    Adding Javascript folder
+
+[33mcommit 2d0baacedba0e8b7e1f603a93d39f8d911d5790e[m
+Author: singh <arshsngh05@gmail.com>
+Date:   Mon Jul 8 16:06:58 2024 +0200
+
+    Removed Javascript folder
+
+[33mcommit d3840b17239b4ec76f54701331482e58b3ca8ca7[m
+Author: singh <arshsngh05@gmail.com>
+Date:   Mon Jul 8 16:06:58 2024 +0200
+
+    Rimossa cartella Javascript
+
+[33mcommit 50d01d8ce7f10558aede46cb5718b77326ae64b5[m
+Author: singh <arshsngh05@gmail.com>
+Date:   Mon Jul 8 16:05:58 2024 +0200
+
+    Adding Go Folder
+
+[33mcommit 208204cd1ce0ce3a57e10c0b622984a1026e43b6[m
+Author: singh <arshsngh05@gmail.com>
+Date:   Fri Jul 5 16:35:31 2024 +0200
+
+    Adding Javascript exercise
+
+[33mcommit 811f66c8fced17ffd081d3c4aef7cbe59960f33a[m
+Author: singh <arshsngh05@gmail.com>
+Date:   Fri Jul 5 16:32:03 2024 +0200
+
+    Adding Git/Github exercise
