@@ -3,7 +3,9 @@ go 1.22.5
 use (
 	./Guide/Collections
 	./Guide/Constructs
+	./Guide/Functions
 	./Guide/HelloWorld
 	./Guide/Pointers
+	./Guide/Struct
 	./Guide/Variables
 )
