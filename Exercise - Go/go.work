@@ -1,3 +1,9 @@
 go 1.22.5
 
-use ./Guide/HelloWorld
+use (
+	./Guide/Collections
+	./Guide/Constructs
+	./Guide/HelloWorld
+	./Guide/Pointers
+	./Guide/Variables
+)
