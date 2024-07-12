@@ -1,0 +1,10 @@
+--------------------------------
+| CLI | Command Line Interface |
+--------------------------------
+- go mod init	: inizializza il modulo
+- go mod tidy	: sincro le dipendenze nel go mod  
+- go test	: esegue i test
+- go build	: 
+- go run	: 
+- go work init	:
+- go work use	:

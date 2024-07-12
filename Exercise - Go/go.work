@@ -1,11 +1,12 @@
 go 1.22.5
 
 use (
-	./Guide/Collections
-	./Guide/Constructs
-	./Guide/Functions
-	./Guide/HelloWorld
-	./Guide/Pointers
-	./Guide/Struct
-	./Guide/Variables
+	./Guide/Lez_01/Collections
+	./Guide/Lez_01/Constructs
+	./Guide/Lez_01/Functions
+	./Guide/Lez_01/HelloWorld
+	./Guide/Lez_01/Pointers
+	./Guide/Lez_01/Struct
+	./Guide/Lez_01/Variables
+	./Guide/Lez_02/FizzBuzz
 )
