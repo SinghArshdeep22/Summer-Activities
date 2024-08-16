@@ -1,0 +1,4 @@
+go run .
+
+docker ps
+docker run -d -p 54322:5432 -e POSTGRES_PASSWORD=postgres postgres
